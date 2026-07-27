@@ -25,13 +25,13 @@ It offers a modular, composable software stack that brings together the open sou
 * [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) are curated collections of building blocks, industry-specific libraries,
   and sample applications designed to help you develop optimized AI solutions tailored to specific use cases. Currently, seven suites are featured:
 
-  * [Metro](https://github.com/open-edge-platform/edge-ai-suites/blob/main/metro-ai-suite),
-  * [Manufacturing](https://github.com/open-edge-platform/edge-ai-suites/blob/main/manufacturing-ai-suite),
-  * [Retail](https://github.com/open-edge-platform/edge-ai-suites/blob/main/retail-ai-suite),
-  * [Robotics](https://github.com/open-edge-platform/edge-ai-suites/blob/main/robotics-ai-suite),
-  * [Education](https://github.com/open-edge-platform/edge-ai-suites/blob/main/education-ai-suite),
-  * [Health and Life Sciences](https://github.com/open-edge-platform/edge-ai-suites/tree/main/health-and-life-sciences-ai-suite), and 
-  * [Federal and Aerospace](https://github.com/open-edge-platform/edge-ai-suites/tree/main/federal-aerospace).
+  * [Metro](https://github.com/open-edge-platform/edge-ai-suites/blob/main/metro-ai-suite)
+  * [Manufacturing](https://github.com/open-edge-platform/edge-ai-suites/blob/main/manufacturing-ai-suite)
+  * [Retail](https://github.com/open-edge-platform/edge-ai-suites/blob/main/retail-ai-suite)
+  * [Robotics](https://github.com/open-edge-platform/edge-ai-suites/blob/main/robotics-ai-suite)
+  * [Education](https://github.com/open-edge-platform/edge-ai-suites/blob/main/education-ai-suite)
+  * [Health and Life Sciences](https://github.com/open-edge-platform/edge-ai-suites/tree/main/health-and-life-sciences-ai-suite)
+  * [Federal and Aerospace](https://github.com/open-edge-platform/edge-ai-suites/tree/main/federal-aerospace)
     
 * [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries) provide edge-optimized, composable libraries, SDKs, and microservices
   to support the development of performant, production-grade multimodal edge AI applications, along with user-friendly workflows for optimization and
@@ -48,7 +48,7 @@ It offers a modular, composable software stack that brings together the open sou
 
 Each repository includes contribution guidelines and templates for reporting issues.
 
-You can access the platform documentation at the [OEP Documentation Website](https://docs.openedgeplatform.intel.com/).
+You can access the platform documentation at the [OEP Documentation Website](https://docs.openedgeplatform.intel.com/) to learn more about all the components, and use the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.1/index.html?chat) to ask questions regarding the software.
 
 Unless otherwise noted, the platform’s repositories are primarily released under the Apache 2.0 license.
 
