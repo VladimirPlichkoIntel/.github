@@ -48,7 +48,7 @@ It offers a modular, composable software stack that brings together the open sou
 
 Each repository includes contribution guidelines and templates for reporting issues.
 
-You can access the platform documentation at the [OEP Documentation Website](https://docs.openedgeplatform.intel.com/) and use the [documentatuon AI chat](https://docs.openedgeplatform.intel.com/2026.1/index.html?chat) to learn more about all the components. 
+You can access the platform documentation at the [OEP Documentation Website](https://docs.openedgeplatform.intel.com/) to learn more about all the components, and use the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.1/index.html?chat) to ask questions regarding the software.
 
 Unless otherwise noted, the platform’s repositories are primarily released under the Apache 2.0 license.
 
