@@ -22,8 +22,7 @@ It offers a modular, composable software stack that brings together the open sou
 
 ## The platform comprises five key repositories: 
 
-* [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) are curated collections of building blocks, industry-specific libraries,
-  and sample applications designed to help you develop optimized AI solutions tailored to specific use cases. Currently, seven suites are featured:
+* [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) - curated collections of sample applications designed as reference solutions to help you develop optimized AI products tailored to specific use cases. Suites incorporate a variety of shared Open Edge Platform components, as well as their own and third-party building blocks. Currently, seven suites are featured:
 
   * [Metro](https://github.com/open-edge-platform/edge-ai-suites/blob/main/metro-ai-suite)
   * [Manufacturing](https://github.com/open-edge-platform/edge-ai-suites/blob/main/manufacturing-ai-suite)
