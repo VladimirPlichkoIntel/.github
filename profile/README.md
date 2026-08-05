@@ -1,6 +1,6 @@
 # Welcome to the Open Edge Platform GitHub Organization! 
 
-Intel’s Open Edge Platform is a secure and optimized open platform for developing scalable edge solutions. 
+Open Edge Platform is an Intel-optimized open software platform for developing and testing scalable edge solutions. 
 
 It offers a modular, composable software stack that brings together the open source ecosystem to help you build performant edge solutions and securely operationalize them with cloud-like capabilities.
 
