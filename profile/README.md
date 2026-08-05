@@ -2,7 +2,7 @@
 
 Open Edge Platform is an Intel-optimized open software platform for developing and testing scalable edge solutions. 
 
-It offers a modular, composable software stack that brings together the open source ecosystem to help you build performant edge solutions and securely operationalize them with cloud-like capabilities.
+It offers a modular, composable software stack that brings together the open source ecosystem to help you design and build performant edge solutions that operate with cloud-like capabilities.
 
 <div align="center" >
   <a href="https://github.com/open-edge-platform/edge-ai-suites">
