@@ -43,7 +43,23 @@ It offers a modular, composable software stack that brings together the open sou
   its open source license.
 * [Edge Workloads and Benchmarks](https://github.com/open-edge-platform/edge-workloads-and-benchmarks) are performance-optimized pipelines that
   leverage the OpenVINO™ toolkit, the GStreamer multimedia framework,
-  and the Deep Learning Streamer (DL Streamer) for validating media and edge AI analytics.
+* [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries) provide
+  edge-optimized libraries, tools, SDKs, and microservices to support you in developing
+  performant edge AI applications, along with user-friendly workflows for optimization
+  and deployment.
+* [Image Composer Tool](https://github.com/open-edge-platform/image-composer-tool) 
+  is a framework providing a general-purpose toolchain for composing OS images from
+  pre-built artifacts of any Linux distribution that supports Debian or RPM packages.
+  You can generate edge-optimized OS images using Intel's pre-set YAML templates or your
+  own customizations. 
+* [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) 
+  is an edge-optimized container host offering the latest Intel silicon capabilities,
+  for exploring advanced AI workloads at the edge. It is a minimal-footprint system
+  based on the Azure Linux distribution, sharing its open source license.
+* [Edge Workloads and Benchmarks](https://github.com/open-edge-platform/edge-workloads-and-benchmarks) 
+  are performance-optimized pipelines that leverage the OpenVINO™ toolkit, the GStreamer
+  multimedia framework, and Deep Learning Streamer (DL Streamer) for validating media
+  and edge AI analytics.
 
 Each repository includes contribution guidelines and templates for reporting issues.
 
