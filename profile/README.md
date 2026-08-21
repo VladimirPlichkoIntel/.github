@@ -30,7 +30,7 @@ It offers a modular, composable software stack that brings together the open sou
   * [Robotics](https://github.com/open-edge-platform/edge-ai-suites/blob/main/robotics-ai-suite)
   * [Education](https://github.com/open-edge-platform/edge-ai-suites/blob/main/education-ai-suite)
   * [Health and Life Sciences](https://github.com/open-edge-platform/edge-ai-suites/tree/main/health-and-life-sciences-ai-suite)
-  * [Federal and Aerospace](https://github.com/open-edge-platform/edge-ai-suites/tree/main/federal-aerospace)
+  * [Federal and Aerospace](https://github.com/open-edge-platform/edge-ai-suites/tree/main/federal-and-aerospace-ai-suite)
     
 * [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries) provide edge-optimized, composable libraries, SDKs, and microservices
   to support the development of performant, production-grade multimodal edge AI applications, along with user-friendly workflows for optimization and
