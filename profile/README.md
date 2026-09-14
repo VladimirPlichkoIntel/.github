@@ -10,13 +10,8 @@ It offers a modular, composable software stack that brings together the open sou
   </a>
 </div>
 <div align="center" >
-  <a href="https://github.com/open-edge-platform/edge-ai-libraries">
-    <img src="../images/OEP-stack-diag-B.drawio.svg" alt="libraries" width="500" />
-  </a>
-</div>
-<div align="center" >
   <a href="https://github.com/open-edge-platform/edge-microvisor-toolkit" >
-    <img src="../images/OEP-stack-diag-D.drawio.svg" alt="microvisor"  width="500" />
+    <img src="../images/OEP-stack-diag-D.drawio.svg" alt="OS"  width="500" />
   </a>
 </div>
 
@@ -39,11 +34,13 @@ It offers a modular, composable software stack that brings together the open sou
   edge-optimized libraries, tools, SDKs, and microservices to support you in developing
   performant edge AI applications, along with user-friendly workflows for optimization
   and deployment.
-* [Image Composer Tool](https://github.com/open-edge-platform/image-composer-tool) 
-  is a framework providing a general-purpose toolchain for composing OS images from
-  pre-built artifacts of any Linux distribution that supports Debian or RPM packages.
-  You can generate edge-optimized OS images using Intel's pre-set YAML templates or your
-  own customizations. 
+* [Edge Pack](https://github.com/open-edge-platform/edge-pack) is a curated collection 
+  of Intel-validated software packages and drivers that unlock specific Intel platform 
+  capabilities — such as graphics and media acceleration, the Neural Processing Unit (NPU), 
+  platform manageability, and real-time kernel support — on top of stock Ubuntu LTS installations. 
+  Rather than hunting down individual drivers, PPAs, and kernel packages and figuring out 
+  how they fit together, EdgePack packages them into validated, ready-to-install profiles 
+  for supported Intel platforms. 
 * [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) 
   is an edge-optimized container host offering the latest Intel silicon capabilities,
   for exploring advanced AI workloads at the edge. It is a minimal-footprint system
